@@ -1,0 +1,2 @@
+# ios-trusted-device
+test
